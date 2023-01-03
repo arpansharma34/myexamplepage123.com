@@ -1,0 +1,26 @@
+nav a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    float: left;
+
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+nav a:hover{
+    color: tomato;
+}
+header{
+    background-color: aquamarine;
+    padding: 40px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
